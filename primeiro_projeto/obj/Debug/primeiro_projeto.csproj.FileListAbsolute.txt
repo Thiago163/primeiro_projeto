@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\primeiro_projeto\primeiro_projeto\bin\Debug\primeiro_projeto.exe.config
+C:\Users\aluno\Desktop\primeiro_projeto\primeiro_projeto\bin\Debug\primeiro_projeto.exe
+C:\Users\aluno\Desktop\primeiro_projeto\primeiro_projeto\bin\Debug\primeiro_projeto.pdb
+C:\Users\aluno\Desktop\primeiro_projeto\primeiro_projeto\obj\Debug\primeiro_projeto.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\primeiro_projeto\primeiro_projeto\obj\Debug\primeiro_projeto.Properties.Resources.resources
+C:\Users\aluno\Desktop\primeiro_projeto\primeiro_projeto\obj\Debug\primeiro_projeto.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\primeiro_projeto\primeiro_projeto\obj\Debug\primeiro_projeto.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\primeiro_projeto\primeiro_projeto\obj\Debug\primeiro_projeto.exe
+C:\Users\aluno\Desktop\primeiro_projeto\primeiro_projeto\obj\Debug\primeiro_projeto.pdb
+C:\Users\aluno\Desktop\primeiro_projeto\primeiro_projeto\obj\Debug\primeiro_projeto.frmCalculo.resources
